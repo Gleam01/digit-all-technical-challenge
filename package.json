@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/Gleam01/digit-all-technical-challenge/issues"
   },
-  "homepage": "https://github.com/Gleam01/digit-all-technical-challenge#readme"
+  "homepage": "https://github.com/Gleam01/digit-all-technical-challenge#readme",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "eslint": "^8.52.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "mocha": "^10.2.0",
+    "mock-fs": "^5.2.0",
+    "nyc": "^15.1.0",
+    "prettier": "^3.0.3",
+    "sinon": "^17.0.0"
+  }
 }
