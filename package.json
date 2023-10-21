@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js ./input.txt",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nyc --all mocha tests/**/*.spec.js"
   },
   "repository": {
     "type": "git",
