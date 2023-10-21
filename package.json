@@ -1,0 +1,20 @@
+{
+  "name": "digit-all-technical-challenge",
+  "version": "1.0.0",
+  "description": "This is a technical challenge for a front-end developer position at Digit'All. The purpose of this challenge is to resolve the MowItNow challenge.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js ./input.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gleam01/digit-all-technical-challenge.git"
+  },
+  "author": "Yassr HADJ ABDOU RAZACK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gleam01/digit-all-technical-challenge/issues"
+  },
+  "homepage": "https://github.com/Gleam01/digit-all-technical-challenge#readme"
+}
